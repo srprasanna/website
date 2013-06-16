@@ -6,7 +6,24 @@ body {
 	font-family: 'Economica', sans-serif !important;
 }
 
-.custom-brand{
-	font-size:24px;
+.custom-brand {
+	font-size: 24px;
+}
+
+.footer-links {
+	margin: 10px 0;
+}
+
+.footer-links li {
+	display: inline;
+	padding: 0 2px;
+}
+
+.footer-links li:first-child {
+	padding-left: 0;
+}
+
+.footer-links li.copy{
+	margin-right:20px;
 }
 
